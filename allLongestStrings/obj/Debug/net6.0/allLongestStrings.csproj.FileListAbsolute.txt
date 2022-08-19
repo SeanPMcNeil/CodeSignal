@@ -1,0 +1,5 @@
+/Users/lowkey/CodeSignal/allLongestStrings/obj/Debug/net6.0/allLongestStrings.csproj.AssemblyReference.cache
+/Users/lowkey/CodeSignal/allLongestStrings/obj/Debug/net6.0/allLongestStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/CodeSignal/allLongestStrings/obj/Debug/net6.0/allLongestStrings.AssemblyInfoInputs.cache
+/Users/lowkey/CodeSignal/allLongestStrings/obj/Debug/net6.0/allLongestStrings.AssemblyInfo.cs
+/Users/lowkey/CodeSignal/allLongestStrings/obj/Debug/net6.0/allLongestStrings.csproj.CoreCompileInputs.cache

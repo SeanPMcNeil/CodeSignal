@@ -4,7 +4,7 @@ function solution(n) {
         return 0;
     } else {
         let nArray = nString.split('');
-        console.log(nArray);
+        // console.log(nArray);
         return summing(nArray);
     }
 }
